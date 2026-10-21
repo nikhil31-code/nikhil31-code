@@ -16,4 +16,4 @@ Full-stack developer building web apps and AI-powered tools.
 - **Log Anomaly Detector**: Python tool that flags unusual log activity
 
 ## 📫 Connect
-[LinkedIn](www.linkedin.com/in/nikhil3104) · nikhil013104@gmail.com
+www.linkedin.com/in/nikhil3104 · nikhil013104@gmail.com
