@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Nikhil Patil 👋
 
-<!--
-**nikhil31-code/nikhil31-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer building web apps and AI-powered tools.
 
-Here are some ideas to get you started:
+## 🛠 Tech I work with
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured projects
+- **Trustle**: AI-powered misinformation detection with a multi-agent Gemini pipeline
+- **JamZon**: Earphones and headset e-commerce website
+- **TaskHub**: Task management app inspired by the Jira workflow
+- **Log Anomaly Detector**: Python tool that flags unusual log activity
+
+## 📫 Connect
+[LinkedIn](www.linkedin.com/in/nikhil3104) · nikhil013104@gmail.com
